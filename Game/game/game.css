@@ -14,7 +14,7 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: linear-gradient(to right,rgb(229, 224, 224),rgb(227, 168, 168),rgb(218, 195, 133));
+  background: linear-gradient(to right,rgb(243, 148, 222),rgb(255, 187, 0),rgb(38, 148, 244));
 }
 ::selection{
   color: #fff;
