@@ -1,9 +1,9 @@
 body {
     background: #6d4fac;
   
-    background: -webkit-linear-gradient(to right, #2c3e50, #6d4fac);
+    background: -webkit-linear-gradient(to right, #ff7300, #787777);
  
-    background: linear-gradient(to right, #2c3e50, #6d4fac);
+    background: linear-gradient(to right, #ff7300, #787777);
   
 }
 
